@@ -10,7 +10,7 @@
 @import 'component/_component.css';
 
 /* --- MODULE --- */
-
+@import 'module/header.css';
 
 
 /* --- RESPONSIVE --- */

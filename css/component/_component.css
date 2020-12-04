@@ -37,7 +37,7 @@
     content: '';
     background-color: inherit;
     border-radius: inherit;
-    transition: transform var(--trans-5);
+    transition: transform var(--trans-05);
 }
 
 
@@ -62,8 +62,24 @@
     display: block;
     background-color: var(--web-site-menu-btn-color);
     transform: rotate(45deg);
-    transition: transform var(--trans-5);
+    transition: transform var(--trans-05);
 }
 .web-site-menu-close-btn-component::after {
     transform: rotate(-45deg);
+}
+
+
+
+
+/* === LOGO === */
+.web-site-logo {
+    position: relative;
+    height: 100px;
+    width: 150px;
+}
+
+
+/* === BORDER === */
+.b {
+    border: 1px solid var(--dark-color);
 }
