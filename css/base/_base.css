@@ -11,6 +11,7 @@
     /* === FONT SIZE === */
 
     /* === FONT POLICE === */
+    --head-police: 'Tenor Sans', sans-serif;
 
     /* === TRANSITION === */
     --trans-03: .3s ease;
@@ -21,6 +22,7 @@
     --web-site-menu-btn-color: var(--dark-color);
     --dark-color: #111;
     --white-color: #fff;
+    --green-color: #91d18b;
 
     /* === LINE HEIGHT === */
 
@@ -30,7 +32,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 html, body {
@@ -55,3 +57,5 @@ img {
     width: 100%;
     object-fit: cover;
 }
+
+/* span {} */

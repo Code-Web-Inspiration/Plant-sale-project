@@ -1,5 +1,8 @@
 /* --- MAIN FILE CSS --- */
 
+/* --- POLICE --- */
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Tenor+Sans&display=swap');
+
 /* --- BASE --- */
 @import 'base/_base.css';
 
@@ -11,6 +14,7 @@
 
 /* --- MODULE --- */
 @import 'module/header.css';
+@import 'module/banner-info.css';
 
 
 /* --- RESPONSIVE --- */
