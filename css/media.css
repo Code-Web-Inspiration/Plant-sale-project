@@ -2,3 +2,25 @@
 
 @import 'responsive/_@header.css';
 @import 'responsive/_@banner-info.css';
+@import 'responsive/_@best-sellers.css';
+@import 'responsive/_@our-plants.css';
+
+
+
+
+
+/* @media only screen and (min-width: 768px) and (max-width: 1024px) {
+    
+} */
+
+/* @media only screen and (min-width: 375px) and (max-width: 1024px) {
+
+} */
+
+/* @media only screen and (min-width: 375px) and (max-width: 768px) {
+
+} */
+
+/* @media only screen and (max-width: 375px) {
+    
+} */

@@ -22,9 +22,10 @@
     --web-site-menu-btn-color: var(--dark-color);
     --dark-color: #111;
     --white-color: #fff;
-    --green-color: #91d18b;
+    --green-color: #61b15a;
 
     /* === LINE HEIGHT === */
+    --l-height: 1;
 
 }
 
@@ -39,6 +40,17 @@ html, body {
     color: var(--dark-color);
     text-rendering: optimizeLegibility;
     line-height: 1.5;
+}
+
+section {
+    width: 100%;
+    margin-bottom: 100px;
+    z-index: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--head-police);
+    line-height: var(--l-height);
 }
 
 ul, li {
