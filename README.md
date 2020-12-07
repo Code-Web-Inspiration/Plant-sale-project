@@ -15,7 +15,10 @@ Cette comporte cing (5) section à savoir:
     - La section our plants
         Cette section affiche une gallerie d'image de palnte à vendre.
 
+    - La section footer 
+        Cette section permet d'avoir la navigation en dessous de la page aussi. Elle donne en plus d'information sur la page et termine la page.
 
+Merci de prendre plaisir à decouvrir cette manière d'organiser votre projet et d'en profiter.
         
 
 

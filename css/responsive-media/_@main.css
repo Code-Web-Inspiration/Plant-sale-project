@@ -1,10 +1,10 @@
 /* === HEADER MEDIA === */
 
-@import 'responsive/_@header.css';
-@import 'responsive/_@banner-info.css';
-@import 'responsive/_@best-sellers.css';
-@import 'responsive/_@our-plants.css';
-@import 'responsive/_@footer.css';
+@import 'main/_@header.css';
+@import 'main/_@banner-info.css';
+@import 'main/_@best-sellers.css';
+@import 'main/_@our-plants.css';
+@import 'main/_@footer.css';
 
 
 

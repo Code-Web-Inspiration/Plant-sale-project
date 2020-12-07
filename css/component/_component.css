@@ -143,7 +143,8 @@
     color: var(--green-color);
 }
 
-.web-site-card-article-read-more-component {
+.web-site-card-article-read-more-component:link,
+.web-site-card-article-read-more-component:visited {
     padding: .5em 1em;
     border: 1px solid var(--green-color);
     border-radius: 10px;
@@ -157,18 +158,4 @@
 .best-sellers .article-btn-read-more.is-active {
     color: var(--dark-color);
     background-color: transparent;
-}
-
-
-
-
-
-
-
-
-
-
-/* === BORDER === */
-.b {
-    border: 1px solid var(--dark-color);
 }
